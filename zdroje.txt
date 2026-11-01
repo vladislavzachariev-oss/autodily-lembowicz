@@ -1,0 +1,27 @@
+Fotky v této ukázce (všechny s volnou licencí pro komerční použití, bez nutnosti uvádět autora):
+
+foto/uvod-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/white-and-silver-round-device-al01Ad0f_KI
+  licence: Unsplash License (https://unsplash.com/license)
+  úprava: zrcadleno
+  úprava pro tuto stránku: barevně tónováno do barev firmy
+
+foto/02-brzdy-800|1600.webp  (1600×1069)
+  stránka: https://www.pexels.com/photo/close-up-of-car-brake-caliper-and-disc-34277926/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/03-pruzina-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/close-up-photo-of-a-vehicle-parts-10912797/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/04-motor-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/complex-car-engine-with-various-mechanical-parts-and-hoses-xCLneDUHt4Q
+  licence: Unsplash License (https://unsplash.com/license)
+
+foto/05-rozvody-800|1600.webp  (1600×1064)
+  stránka: https://www.pexels.com/photo/close-up-view-of-a-modern-car-engine-35531283/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/06-blok-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/selective-focus-photography-of-gray-engine-atgIjoAJdWg
+  licence: Unsplash License (https://unsplash.com/license)
